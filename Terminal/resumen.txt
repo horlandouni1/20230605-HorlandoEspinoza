@@ -1,0 +1,5 @@
+1. comando para cambiar de directorio :  cd
+2. comando para listar archivos y directorios en el directorio actual : ls
+3. Muestra la ruta completa del directorio actua : pwd
+4. Crea un nuevo directorio : mkdir
+5. Copia archivos o directorios : cp

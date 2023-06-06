@@ -1,0 +1,11 @@
+1. Procesador (CPU): El procesador es el cerebro de la computadora.
+Es responsable de ejecutar las instrucciones y realizar los cálculos necesarios para el funcionamiento del sistema.
+El procesador interpreta y ejecuta las instrucciones del software, controla la lógica y realiza operaciones matemáticas.
+
+2. Memoria RAM: La memoria RAM (Random Access Memory) es un tipo de memoria volátil que almacena temporalmente los datos y las
+ instrucciones que el procesador necesita acceder rápidamente. Es una memoria de acceso aleatorio,
+lo que significa que los datos se pueden leer o escribir en cualquier orden, lo que la hace esencial para el rendimiento del sistema y la ejecución eficiente de programas.
+
+3. Disco duro o unidad de estado sólido (SSD): El disco duro o SSD es el dispositivo de almacenamiento principal de la computadora. 
+Almacena permanentemente los datos, incluidos los archivos del sistema operativo, programas y archivos de usuario. El disco duro utiliza discos magnéticos giratorios para almacenar y acceder a los datos,
+ mientras que el SSD utiliza memoria flash de estado sólido. Ambos tipos de dispositivos proporcionan almacenamiento masivo y permiten el acceso rápido a los datos.
