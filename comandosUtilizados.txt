@@ -1,0 +1,26 @@
+
+  git init
+  git remote add origin https://github.com/horlandouni1/20230605-HorlandoEspinoza.git
+  git branch -M main
+  git push -u origin main
+  touch comandos.txt main.js index.html
+  git add .
+  code .
+  git commit "commit 01 de HorlandoEspinoza"
+  git commit -m "commit 01 de HorlandoEspinoza"
+  git push origin main
+  git checkout -b feature01
+  mkdir Terminal Hardware
+  touch ./Terminal/resumen.txt
+  touch ./Hardware/resumen.txt
+  git add .
+  git commit -m "commit 02 de HorlandoEspinoza"
+  git push origin feature01
+  git checkout -b feature02
+  git add .
+  git commit -m "commit 03 de HorlandoEspinoza"
+  git push origin feature02
+  git checkout main
+  mv comandos.txt comandosUtilizados.txt
+  history
+  history > comandosUtilizados.txt
